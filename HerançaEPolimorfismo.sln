@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerançaEPolimorfismo", "HerançaEPolimorfismo\HerançaEPolimorfismo.csproj", "{F9B47ED6-7C40-4A8B-A2C8-AD4F99114C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÁreaDeFormasGeometricas", "ÁreaDeFormasGeometricas\ÁreaDeFormasGeometricas.csproj", "{233399AD-E4D7-4F16-9D7B-A08589620912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B47ED6-7C40-4A8B-A2C8-AD4F99114C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B47ED6-7C40-4A8B-A2C8-AD4F99114C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B47ED6-7C40-4A8B-A2C8-AD4F99114C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B47ED6-7C40-4A8B-A2C8-AD4F99114C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233399AD-E4D7-4F16-9D7B-A08589620912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233399AD-E4D7-4F16-9D7B-A08589620912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233399AD-E4D7-4F16-9D7B-A08589620912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233399AD-E4D7-4F16-9D7B-A08589620912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC358AB6-82A1-46FD-9BB3-96F4D0836E71}
+	EndGlobalSection
+EndGlobal
